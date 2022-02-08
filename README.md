@@ -8,6 +8,6 @@
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love listening to music when working
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarratwa&&show_icons=true&theme=buefy"/>
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarratwa&&show_icons=true&theme=buefy"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=sarratwa&&show_icons=true&theme=buefy"/>
